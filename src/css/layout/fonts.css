@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Gagalin-Regular';
+  src: url("../../fonts/Gagalin-Regular.eot") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gagalin-Regular';
+  src: url("../../fonts/Gagalin-Regular.otf") format("opentype"), url("../../fonts/Gagalin-Regular.woff") format("woff"), url("../../fonts/Gagalin-Regular.woff2") format("woff2"), url("../../fonts/Gagalin-Regular.ttf") format("truetype"), url("../../fonts/Gagalin-Regular.svg#Gagalin-Regular") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url("../../fonts/Ubuntu.eot") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url("../../fonts/Ubuntu.otf") format("opentype"), url("../../fonts/Ubuntu.woff") format("woff"), url("../../fonts/Ubuntu.woff2") format("woff2"), url("../../fonts/Ubuntu.ttf") format("truetype"), url("../../fonts/Ubuntu.svg#Ubuntu") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-B';
+  src: url("../../fonts/Ubuntu-B.eot") format("embedded-opentype");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-B';
+  src: url("../../fonts/Ubuntu-B.otf") format("opentype"), url("../../fonts/Ubuntu-B.woff") format("woff"), url("../../fonts/Ubuntu-B.woff2") format("woff2"), url("../../fonts/Ubuntu-B.ttf") format("truetype"), url("../../fonts/Ubuntu-B.svg#Ubuntu-B") format("svg");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-Light';
+  src: url("../../fonts/Ubuntu-Light.eot") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-Light';
+  src: url("../../fonts/Ubuntu-Light.otf") format("opentype"), url("../../fonts/Ubuntu-Light.woff") format("woff"), url("../../fonts/Ubuntu-Light.woff2") format("woff2"), url("../../fonts/Ubuntu-Light.ttf") format("truetype"), url("../../fonts/Ubuntu-Light.svg#Ubuntu-Light") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-Medium';
+  src: url("../../fonts/Ubuntu-Medium.eot") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ubuntu-Medium';
+  src: url("../../fonts/Ubuntu-Medium.otf") format("opentype"), url("../../fonts/Ubuntu-Medium.woff") format("woff"), url("../../fonts/Ubuntu-Medium.woff2") format("woff2"), url("../../fonts/Ubuntu-Medium.ttf") format("truetype"), url("../../fonts/Ubuntu-Medium.svg#Ubuntu-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Lifehack-Medium';
+  src: url("../../fonts/Lifehack-Medium.eot") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Lifehack-Medium';
+  src: url("../../fonts/Lifehack-Medium.otf") format("opentype"), url("../../fonts/Lifehack-Medium.woff") format("woff"), url("../../fonts/Lifehack-Medium.woff2") format("woff2"), url("../../fonts/Lifehack-Medium.ttf") format("truetype"), url("../../fonts/Lifehack-Medium.svg#Lifehack-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'BangersCyrillic';
+  src: url('../../fonts/BangersCyrillic.eot');
+  src: url('../../fonts/BangersCyrillic.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/BangersCyrillic.svg#BangersCyrillic') format('svg'),
+       url('../../fonts/BangersCyrillic.ttf') format('truetype'),
+       url('../../fonts/BangersCyrillic.woff') format('woff'),
+       url('../../fonts/BangersCyrillic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
